@@ -56,4 +56,12 @@
  ## 20. Working with different file formats [CSV,JSON,XML,XLSX]
   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WorkingWithDifferentFileTypes.ipynb
 
+  ### LANGUAGE USED 
+  PYTHON
+  JUPYTER NOTEBOOK
     
+ # COPYRIGHT
+ 
+ COURSERA 
+ IBM 
+ 
