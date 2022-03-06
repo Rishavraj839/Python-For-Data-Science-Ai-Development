@@ -14,17 +14,31 @@
    
    a)slicing,indexing,striding
    
- ## 3. Tuple
+ ## 3. Tuple 
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Tuples.ipynb
  ## 4. List
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Lists.ipynb
  ## 5. Dictionaries
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Dictionaries.ipynb
+ 
  ## 6. Sets
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Sets.ipynb
+ 
  ## 7. Conditions and Branching
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Conditions%20_if_else.ipynb
+   
  ## 8. Loops
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Loops.ipynb
  ## 9. Functions
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Functions.ipynb
  ## 10. Exceptions Handling
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/ExcecptionHandling.ipynb
  ## 11. Objects and Classes
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Object_and_Classes.ipynb
  ## 12. Reading Files with Open
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/ReadFile_and_OpenFile_in_Python.ipynb
  ## 13. Writing Files with Open
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WriteFile_and_saveFile.ipynb
  ## 14. Pandas
  ## 15. 1D Numpy
  ## 16. 2D numpy
