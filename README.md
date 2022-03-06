@@ -40,12 +40,19 @@
  ## 13. Writing Files with Open
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WriteFile_and_saveFile.ipynb
  ## 14. Pandas
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/pandas%20tutorial.ipynb
  ## 15. 1D Numpy
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Numpy1D.ipynb
  ## 16. 2D numpy
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Numpy2D.ipynb
  ## 17. API
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Intro_API_and_RESTAPI.ipynb
+    
  ## 18. REST API and Request HTTP
- ## 19. WEBSCRAPPING
- ## 20. Working with different file formats [CSV,JSON,XML,XLSX]
- ## 21.
  
+ ## 19. WEBSCRAPPING
+  https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WebScraping.ipynb
+ ## 20. Working with different file formats [CSV,JSON,XML,XLSX]
+  https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WorkingWithDifferentFileTypes.ipynb
+
     
