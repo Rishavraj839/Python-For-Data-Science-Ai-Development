@@ -16,6 +16,8 @@
    
  ## 3. Tuple 
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Tuples.ipynb
+   
+   a)indexing,slicing,nested tuple
  ## 4. List
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Lists.ipynb
  ## 5. Dictionaries
