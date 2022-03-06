@@ -26,10 +26,12 @@
  ## 12. Reading Files with Open
  ## 13. Writing Files with Open
  ## 14. Pandas
- ## 15
- ## 16
- ## 17
- ## 18
- ## 19
- ## 20
+ ## 15. 1D Numpy
+ ## 16. 2D numpy
+ ## 17. API
+ ## 18. REST API and Request HTTP
+ ## 19. WEBSCRAPPING
+ ## 20. Working with different file formats [CSV,JSON,XML,XLSX]
+ ## 21.
+ 
     
