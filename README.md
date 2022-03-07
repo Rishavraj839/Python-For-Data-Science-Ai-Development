@@ -29,6 +29,10 @@
  ## 7. Conditions and Branching
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Conditions%20_if_else.ipynb
    
+   a)>,<,==,>=,<=,1=
+   b)if else elif statement
+   c)And,or,Not
+   
  ## 8. Loops
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Loops.ipynb
  ## 9. Functions
