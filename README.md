@@ -35,6 +35,8 @@
    
  ## 8. Loops
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Loops.ipynb
+   
+   a)for ,while 
  ## 9. Functions
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Functions.ipynb
  ## 10. Exceptions Handling
