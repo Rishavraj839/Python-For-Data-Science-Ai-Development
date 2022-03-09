@@ -39,6 +39,8 @@
    a)for ,while 
  ## 9. Functions
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Functions.ipynb
+   
+   a)Collections and Functions b)scope of variable 
  ## 10. Exceptions Handling
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/ExcecptionHandling.ipynb
  ## 11. Objects and Classes
