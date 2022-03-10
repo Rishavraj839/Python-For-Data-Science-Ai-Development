@@ -43,6 +43,9 @@
    a)Collections and Functions b)scope of variable 
  ## 10. Exceptions Handling
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/ExcecptionHandling.ipynb
+   
+   a)try and except
+   b)different error
  ## 11. Objects and Classes
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Object_and_Classes.ipynb
  ## 12. Reading Files with Open
