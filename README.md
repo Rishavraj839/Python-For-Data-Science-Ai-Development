@@ -48,6 +48,8 @@
    b)different error
  ## 11. Objects and Classes
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Object_and_Classes.ipynb
+   
+   a)instance b)circle and rectangle class
  ## 12. Reading Files with Open
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/ReadFile_and_OpenFile_in_Python.ipynb
  ## 13. Writing Files with Open
