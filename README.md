@@ -67,18 +67,31 @@
    
  a)What is Numpy?
 Type
+
 Assign Value
+
 Slicing
+
 Assign Value with List
+
 Other Attributes
+
 Numpy Array Operations
+
 Array Addition
+
 Array Multiplication
+
 Product of Two Numpy Arrays
+
 Dot Product
+
 Adding Constant to a Numpy Array
+
 Mathematical Functions
+
 Linespace
+
  ## 16. 2D numpy
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Numpy2D.ipynb
  ## 17. API
