@@ -55,9 +55,9 @@
    
    a)Reading Text file b)readline()
  ## 13. Writing Files with Open
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WriteFile.ipynb
     
-    
-    
+   a)write,append,create,read files
  ## 14. Pandas
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/pandas%20tutorial.ipynb
  ## 15. 1D Numpy
