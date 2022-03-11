@@ -94,6 +94,14 @@ Linespace
 
  ## 16. 2D numpy
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Numpy2D.ipynb
+   
+   Create a 2D Numpy Array
+   
+   Accessing different elements of a Numpy Array
+
+   Basic Operations
+   
+   
  ## 17. API
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Intro_API_and_RESTAPI.ipynb
     
