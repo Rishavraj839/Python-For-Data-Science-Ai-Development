@@ -95,6 +95,14 @@ Linespace
  ## 16. 2D numpy
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Numpy2D.ipynb
    
+   Data Engineering 
+   
+   Data Engineering Process 
+   
+   Working with different file formats 
+   
+   Data Analysis
+   
    Create a 2D Numpy Array
    
    Accessing different elements of a Numpy Array
