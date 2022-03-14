@@ -165,6 +165,16 @@ Downloading And Scraping The Contents Of A Web
 
  ## 20. Working with different file formats [CSV,JSON,XML,XLSX]
   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WorkingWithDifferentFileTypes.ipynb
+  
+  
+   Data Engineering   
+   
+   Data Engineering Process 
+   
+   Working with different file formats 
+   
+   
+   Data Analysis
 
   ### LANGUAGE USED 
   PYTHON
