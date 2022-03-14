@@ -103,7 +103,13 @@ Linespace
    
    
  ## 17. API
-   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Intro_API_and_RESTAPI.ipynb
+   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/_Intro_API_RESTAPI.ipynb
+   
+   API
+   
+   REST API
+   
+   BITCOIN API
     
  ## 18. REST API and Request HTTP
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Requests_HTTP.ipynb
