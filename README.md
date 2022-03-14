@@ -121,6 +121,40 @@ Handle HTTP Requests
  
  ## 19. WEBSCRAPPING
   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WebScraping.ipynb
+  
+  Beautiful Soup Object
+  
+ 
+Tag
+
+
+Children, Parents, and Siblings
+
+
+HTML Attributes
+
+
+Navigable String
+
+
+Filter
+
+
+find All
+
+
+find
+
+
+HTML Attributes
+
+
+Navigable String
+
+
+Downloading And Scraping The Contents Of A Web
+
+
  ## 20. Working with different file formats [CSV,JSON,XML,XLSX]
   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WorkingWithDifferentFileTypes.ipynb
 
