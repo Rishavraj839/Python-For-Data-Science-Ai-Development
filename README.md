@@ -113,6 +113,11 @@ Linespace
     
  ## 18. REST API and Request HTTP
    https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/Requests_HTTP.ipynb
+   
+   Understand HTTP
+   
+   
+Handle HTTP Requests
  
  ## 19. WEBSCRAPPING
   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/WebScraping.ipynb
