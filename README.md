@@ -52,7 +52,9 @@
    
    a)instance b)circle and rectangle class
  ## 12. Reading Files with Open
-   https://github.com/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/ReadFile_and_OpenFile_in_Python.ipynb
+   
+   
+   https://nbviewer.org/github/Rishavraj839/Python-For-Data-science-Ai-Development/blob/main/ReadFile_and_OpenFile_in_Python.ipynb
    
    a)Reading Text file b)readline()
  ## 13. Writing Files with Open
